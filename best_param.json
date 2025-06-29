@@ -1,0 +1,8 @@
+{
+    "gamma": 0.9809215838057381,
+    "replay_buffer_size": 16000,
+    "target_update_freq": 33,
+    "epsilon_decay": 0.9903489789774564,
+    "epsilon_end": 0.012502460928409774,
+    "episode": 468
+}
